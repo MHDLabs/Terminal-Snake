@@ -38,7 +38,7 @@ It is intended primarily for **Linux and other Unix-like systems**.
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/terminal-snake.git
+git clone https://github.com/MHDLabs/Terminal-Snake.git
 cd terminal-snake
 ```
 
